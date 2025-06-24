@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BHARGAV DEVI PRASAD S</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Engineering student focused on building projects that blend code, creativity, and practical value. Currently exploring full-stack and automation.</h3>
 
 - 🔭 I’m currently working on [InvoiceIQ](https://github.com/BhargavDevi/OCRInvoice.git)
 
