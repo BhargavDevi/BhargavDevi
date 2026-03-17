@@ -5,33 +5,13 @@ Currently exploring **Full-Stack Development, Automation, and System-Level (Oper
 
 ---
 
-## Current Work
-
-* Working on **InvoiceIQ** (Invoice Scanner + Dashboard using OCR & NLP)
-
----
 
 ## What I'm Learning
-
-* Backend development with **Node.js and Express**
-* **Operating Systems concepts** through hands-on projects
-* Building scalable and maintainable full-stack applications
-
----
-
-## Tech Stack
-
-**Languages**
-C • C++ • Python • JavaScript
-
-**Frontend**
-HTML • CSS • Bootstrap • React
-
-**Backend**
-Node.js • Express.js
-
-**Database**
-MongoDB
+- Backend development with **Node.js and Express**
+- **Data Structures and Algorithms (DSA)** for problem-solving and coding interviews
+- **Operating Systems concepts** through hands-on system-level projects
+- Designing **scalable and maintainable full-stack applications**
+- Fundamentals of **system design and performance optimization**
 
 ---
 
