@@ -1,13 +1,57 @@
-<h1 align="center">Hi 👋, I'm BHARGAV DEVI PRASAD S</h1>
-<h3 align="center">Engineering student focused on building projects that blend code, creativity, and practical value. Currently exploring full-stack and automation.</h3>
+# Hi, I'm Bhargav Devi Prasad S
 
-- 🔭 I’m currently working on [InvoiceIQ](https://github.com/BhargavDevi/OCRInvoice.git)
+Engineering student focused on building **practical, real-world projects** that combine code, creativity, and impact.
+Currently exploring **Full-Stack Development, Automation, and System-Level (Operating Systems) projects**.
 
-- 📫 How to reach me **in/bhargav-devi-prasad-s-1b75b5295**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Current Work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+* Working on **InvoiceIQ** (Invoice Scanner + Dashboard using OCR & NLP)
+
+---
+
+## What I'm Learning
+
+* Backend development with **Node.js and Express**
+* **Operating Systems concepts** through hands-on projects
+* Building scalable and maintainable full-stack applications
+
+---
+
+## Tech Stack
+
+**Languages**
+C • C++ • Python • JavaScript
+
+**Frontend**
+HTML • CSS • Bootstrap • React
+
+**Backend**
+Node.js • Express.js
+
+**Database**
+MongoDB
+
+---
+
+## Featured Projects
+
+### System Resource Monitor + Memory Simulator
+
+Real-time system monitoring tool that tracks CPU, memory, and process-level data, along with thread analysis.
+Includes simulation of page replacement algorithms (FIFO and LRU) for memory management analysis.
+
+### InvoiceIQ
+
+Invoice data extraction system using OCR and NLP, integrated with a dashboard for visualization and insights.
+
+---
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/bhargav-devi-prasad-s-1b75b5295
+
+---
+
+*Open to internships, collaborations, and opportunities to build impactful software.*
